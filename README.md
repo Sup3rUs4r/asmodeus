@@ -5,6 +5,8 @@ This is a very early version of the Asmodeus Minecraft cheat client.
 This cheat is free and contains a lot of powerful features.
 More are yet to come, test it by yourself.
 
+Made for java.
+
 ## Instructions
 
 1. Launch Minecraft
